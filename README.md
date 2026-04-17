@@ -24,3 +24,6 @@ The system successfully detected objects within the set distance range and activ
 - Contactless doorbell systems
 - Smart home automation
 - Office entry alert systems
+
+##Project Demo Video:
+https://drive.google.com/file/d/1l9J-OJuPv5nQL-418ccLnLTwZSOH0X9-/view?usp=sharing
